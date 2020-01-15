@@ -1,0 +1,2 @@
+# Toxic-Comment-Classification
+The background of this problem starts from the online community and other social medias, wherein people sometimes leave abusive re- marks or hatred comments on some sensitive matter, which further on escalates the situation worse. So, it becomes the responsibility of the organisation to find these comments and remove them. We explore solutions based on Convolutional and Recurrent Neural networks and compare their performance with standard Support Vector Machines.
